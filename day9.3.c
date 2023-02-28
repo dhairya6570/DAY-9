@@ -48,14 +48,14 @@ int main (){
 				printf("D is MAX");
 			}
 		}
-		/*else{
+		else{
 			if(c>d){
 				printf("C is MAX");
 			}
 			else{
 				printf("D is MAX");
 			}
-		}*/
+		}
 	
 	}
 	
